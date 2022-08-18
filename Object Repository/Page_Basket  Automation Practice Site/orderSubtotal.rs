@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>orderSubtotal</name>
+   <tag></tag>
+   <elementGuidId>0cd5022f-f783-4db2-a860-17765186d5d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//tr[@class='cart-subtotal']/td[@data-title='Subtotal']//span)[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.cart-subtotal > td > span.woocommerce-Price-amount.amount</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c090b2fe-3c6d-418e-969a-f89fba7c5997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>445c0d13-a13b-43c5-84e0-863f08339443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹450.00</value>
+      <webElementGuid>06a7c7ef-a546-4320-b2e4-d811437f015b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-34&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;cart-collaterals&quot;]/div[@class=&quot;cart_totals&quot;]/table[@class=&quot;shop_table shop_table_responsive&quot;]/tbody[1]/tr[@class=&quot;cart-subtotal&quot;]/td[1]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>fc54c5dd-f408-4b4e-9ffe-85b2b5cb7682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-34']/div/div/div/div/table/tbody/tr/td/span</value>
+      <webElementGuid>188a0361-3914-4c8a-9d07-cd903757ae33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/following::span[1]</value>
+      <webElementGuid>dab64a65-32de-4750-a5de-a732fc1ef008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basket Totals'])[1]/following::span[1]</value>
+      <webElementGuid>fecfe94c-1190-4c2d-9864-9284497a188a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax'])[1]/preceding::span[2]</value>
+      <webElementGuid>310d212d-8026-4966-bdf0-69e589f716ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr/td/span</value>
+      <webElementGuid>6cb39ee0-1492-4fb3-a302-3f27d21fbec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>ae4a3fdd-ed68-486c-aba4-b31b79929728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//test</value>
+      <webElementGuid>1f2bf93f-8dda-47ec-970d-c404880754ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

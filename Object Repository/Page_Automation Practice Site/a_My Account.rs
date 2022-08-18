@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Account</name>
+   <tag></tag>
+   <elementGuidId>2dc61855-8d86-4b63-9350-939c8f094123</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-50']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-50 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0a3f130c-c82e-41f9-a0bd-e08249037a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://practice.automationtesting.in/my-account/</value>
+      <webElementGuid>97bdef58-256d-46f1-ac2b-e0af95150e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Account</value>
+      <webElementGuid>13378638-7761-4d38-99b5-35dd20844e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-50&quot;)/a[1]</value>
+      <webElementGuid>48dc16df-8fd3-4e5d-84d8-7459d44358af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-50']/a</value>
+      <webElementGuid>004102d6-514f-41d4-b840-023b6ffe6e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'My Account')]</value>
+      <webElementGuid>1e5f1376-7be5-40e9-80ae-4a93bc25cd5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/following::a[1]</value>
+      <webElementGuid>a8b0b515-9dee-42f1-8199-555b55f8ff22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Practice Site'])[2]/following::a[2]</value>
+      <webElementGuid>6e65ac23-7200-4c45-919e-d4c8b5cebc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Cases'])[1]/preceding::a[1]</value>
+      <webElementGuid>270d507a-efed-467c-8626-1cb69b45ac34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AT Site'])[1]/preceding::a[2]</value>
+      <webElementGuid>8c4c7595-44b2-4e41-8495-71dd28f4a3ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Account']/parent::*</value>
+      <webElementGuid>071b835c-291f-440e-92ae-27f6e1656032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://practice.automationtesting.in/my-account/')]</value>
+      <webElementGuid>b4c574e0-070e-4ab0-a6db-b7974ad72986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>072ef281-1fad-4f3c-8562-eeb3c3f99f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://practice.automationtesting.in/my-account/' and (text() = 'My Account' or . = 'My Account')]</value>
+      <webElementGuid>05ee12d7-4314-4602-bd02-2e6b02cd24e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

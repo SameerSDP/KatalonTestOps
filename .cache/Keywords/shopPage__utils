@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "EF8D957905311DD0C407CEF987A62701",
+  "keywordClasses": [
+    {
+      "name": "shopPage.utils",
+      "keywordMethods": [
+        {
+          "name": "verifyAmount",
+          "parameters": [
+            {
+              "name": "total",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "subtotal",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Asserts the total value is greater than subtotal\r\n\t * @param TestObject with total order value \r\n\t * @param TestObject with subtotal order value \r\n\t * \r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2 items</name>
+   <tag></tag>
+   <elementGuidId>f8c9ca9f-b47b-4d6a-a2f4-922149352adf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.cartcontents</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='wpmenucartli']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>305a418c-9754-42f5-af02-76ca024a844d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cartcontents</value>
+      <webElementGuid>8e0a8bad-7aed-4cc4-973e-b29cd1fc08aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 items</value>
+      <webElementGuid>e34764b1-52ba-4eba-a55b-6f83b97c6336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpmenucartli&quot;)/a[@class=&quot;wpmenucart-contents&quot;]/span[@class=&quot;cartcontents&quot;]</value>
+      <webElementGuid>6296b6de-d749-4f40-9614-2d5c7d579a3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='wpmenucartli']/a/span</value>
+      <webElementGuid>a1c65aec-b43e-46db-892b-4d942fdf0218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo Site'])[1]/following::span[1]</value>
+      <webElementGuid>a0fe3051-39d9-49be-b860-3db201a7cd9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AT Site'])[1]/following::span[1]</value>
+      <webElementGuid>ddfb3dc4-4a68-47e2-abd0-63140b50febc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹900.00'])[1]/preceding::span[1]</value>
+      <webElementGuid>6f0d2839-e414-45ee-ae46-51217eca8be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[2]</value>
+      <webElementGuid>293cf221-58cd-4eac-aeca-2af120ee4bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 items']/parent::*</value>
+      <webElementGuid>bb174fb7-de69-4ec5-855f-b27bc286c0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>248aefb3-fcca-4892-b067-0715b6a9a0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2 items' or . = '2 items')]</value>
+      <webElementGuid>4ce4be34-c3f2-4b75-927d-81a21101686b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add to basket (1)</name>
+   <tag></tag>
+   <elementGuidId>a2c59d91-a0a1-455a-a5cd-ccfbe067d952</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/ul/li/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d74e1b07-fe28-44f6-b309-10e312533b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>0b1db094-9357-40ec-b541-e4f4747bc946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shop/?add-to-cart=169</value>
+      <webElementGuid>50b46a6a-0a50-4219-88cc-acb18943d794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quantity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>37a62fff-33b5-4a9e-97c1-1a57fca0ac3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_id</name>
+      <type>Main</type>
+      <value>169</value>
+      <webElementGuid>82696a71-43c1-44d1-80b7-69ab05291074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
+      <webElementGuid>da24f2ae-aed2-4bcf-bf1c-f389c800eeaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to basket</value>
+      <webElementGuid>aa24b296-f09f-43a9-bb7c-2cea7ab2ca32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/ul[@class=&quot;products masonry-done&quot;]/li[@class=&quot;post-169 product type-product status-publish product_cat-android product_tag-android has-post-title no-post-date has-post-category has-post-tag has-post-comment has-post-author first instock sale downloadable taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
+      <webElementGuid>74a2d0e7-99b1-43fc-a6e9-36f944a8f3d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/ul/li/a[2]</value>
+      <webElementGuid>bfb68088-eba5-4095-a7bb-ab4da01821f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add to basket')]</value>
+      <webElementGuid>5ca6621d-07ae-49d1-ab90-eff94eb61035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[2]/following::a[1]</value>
+      <webElementGuid>52702350-2acb-4a3d-bdb0-a76a7e6f9cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::a[1]</value>
+      <webElementGuid>b3b35ea1-943a-43cc-a08d-41783ff3645b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Functional Programming in JS'])[1]/preceding::a[1]</value>
+      <webElementGuid>54e44eb6-60be-4bad-ad3a-e2e5f55b622d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[3]/preceding::a[1]</value>
+      <webElementGuid>e4932a7d-ef56-465d-8ac3-b8bfd26ddc7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to basket']/parent::*</value>
+      <webElementGuid>85f7d3c7-46e4-44b9-a426-13d8d8a82cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/shop/?add-to-cart=169')]</value>
+      <webElementGuid>4329529c-8482-47a1-8371-63bbac443e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>0b9a62ae-73b6-4b39-8f4f-70ea6819fb85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shop/?add-to-cart=169' and (text() = 'Add to basket' or . = 'Add to basket')]</value>
+      <webElementGuid>3655be64-5d2e-4256-9de6-389c41aec2ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
