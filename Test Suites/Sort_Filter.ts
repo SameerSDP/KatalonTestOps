@@ -15,7 +15,7 @@
       <guid>ed545248-59c1-4501-8d7b-5ba490922f4b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test/TC_03_Shop_Price_Filter</testCaseId>
+      <testCaseId>Test Cases/Test/Shop Page/TC_03_Shop_Price_Filter</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

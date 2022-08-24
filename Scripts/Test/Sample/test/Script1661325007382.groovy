@@ -21,13 +21,14 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://practice.automationtesting.in/')
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Page_Automation Practice Site/a_Shop (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Automation Practice Site/a_Shop'))
+WebUI.click(findTestObject('Page_Products  Automation Practice Site/select_Default sortingSort by popularitySor_7443c2'))
 
-WebUI.dragAndDropByOffset(findTestObject('Page_Automation Practice Site/Slider_right'), -50, 0)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Products  Automation Practice Site/select_Default sortingSort by popularitySor_7443c2'), 
+    'date', false)
 
-WebUI.verifyElementText(findTestObject('Page_Automation Practice Site/price_slider_to'), '₹395')
+
 
 WebUI.closeBrowser()
 

@@ -15,7 +15,7 @@
       <guid>29818af7-bf52-419f-af4b-6895e43291df</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test/TC_10_ShopPage_basket_order</testCaseId>
+      <testCaseId>Test Cases/Test/Order/TC_10_ShopPage_basket_order</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
