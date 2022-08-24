@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.flipkart.com/mobile-phones-big-saving-days-aug-22-t4r4d43-store?fm=neo%2Fmerchandising&iid=M_f2e8f0a1-6c0f-4787-9542-ad901e824b06_1_GH3WMENHG9IB_MC.H6NQY3GNQMSC&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Mobiles_H6NQY3GNQMSC&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L0_view-all&cid=H6NQY3GNQMSC')
+WebUI.navigateToUrl('https://practice.automationtesting.in/')
 
-WebUI.mouseOver(findTestObject('flipkart/Page_Mobile Phones Big Saving Days Aug 22 T4r4d43 Store Online - Buy Mobile Phones Big Saving Days Aug 22 T4r4d43 Online at Best Price in India  Flipkart.com/span_Electronics'))
+WebUI.waitForElementVisible(findTestObject('Page_Automation Practice Site/a_Shop'), 5)
 
-WebUI.click(findTestObject('Page_Mobile Phones Big Saving Days Aug 22 T4r4d43 Store Online - Buy Mobile Phones Big Saving Days Aug 22 T4r4d43 Online at Best Price in India  Flipkart.com/a_Realme'))
+WebUI.click(findTestObject('Object Repository/Page_Automation Practice Site/a_Shop'))
 
-WebUI.dragAndDropToObject(findTestObject(null), findTestObject(null))
+WebUI.scrollToElement(findTestObject('Page_Automation Practice Site/Default sorting'), 0)
 
-WebUI.verifyOptionSelectedByValue(findTestObject(null), '', false, 0)
-
-WebUI.setText(findTestObject(null), '')
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Automation Practice Site/Default sorting'), 'date', true)
+WebUI.delay(3)
+WebUI.verifyElementText(findTestObject('Page_Automation Practice Site/sort_date_first_book'), 'HTML5 WebApp Develpment')
 

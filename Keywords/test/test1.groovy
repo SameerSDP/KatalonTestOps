@@ -1,4 +1,4 @@
-package sample
+package test
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -21,7 +21,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords
 import internal.GlobalVariable
 
 import org.openqa.selenium.WebElement
-import org.openqa.selenium.remote.server.handler.FindElement
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.By
 
@@ -39,7 +38,7 @@ import com.kms.katalon.core.util.KeywordUtil
 import com.kms.katalon.core.webui.exception.WebElementNotFoundException
 
 
-class testKeyword {
+class test1 {
 	/**
 	 * Refresh browser
 	 */
@@ -78,15 +77,7 @@ class testKeyword {
 	@Keyword
 	def List<WebElement> getHtmlTableRows(TestObject table, String outerTagName) {
 		WebElement mailList = WebUiBuiltInKeywords.findWebElement(table)
-
 		List<WebElement> selectedRows = mailList.findElements(By.xpath("./" + outerTagName + "/tr"))
 		return selectedRows
-	}
-
-	@Keyword
-
-	def void testmethod(TestObject table) {
-		
-		WebDriver
 	}
 }

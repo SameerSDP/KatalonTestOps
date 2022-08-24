@@ -1,8 +1,8 @@
 {
-  "keywordFileContentHash": "E9541E697B389B7BCDEA128555E4FAB7",
+  "keywordFileContentHash": "692372A4D195BF03AEACB959CDCE57D7",
   "keywordClasses": [
     {
-      "name": "sample.testKeyword",
+      "name": "test.test1",
       "keywordMethods": [
         {
           "name": "refreshBrowser",
@@ -59,25 +59,6 @@
             }
           ],
           "javadoc": "/**\n\t * Get all rows of HTML table\n\t * @param table Katalon test object represent for HTML table\n\t * @param outerTagName outer tag name of TR tag, usually is TBODY\n\t * @return All rows inside HTML table\n\t */"
-        },
-        {
-          "name": "testmethod",
-          "parameters": [
-            {
-              "name": "table",
-              "initialExpression": "",
-              "type": {
-                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
-                "unresolvedClassName": "TestObject",
-                "isArray": false,
-                "isGnericsPlaceHolder": false,
-                "hasImmutableClassName": false,
-                "genericsTypes": [],
-                "errorOnParsing": false
-              }
-            }
-          ],
-          "javadoc": ""
         }
       ]
     }

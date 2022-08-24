@@ -6,16 +6,16 @@
    <elementGuidId>188f75f9-6035-4db2-a858-fb4d7f3c08a2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@href = 'https://practice.automationtesting.in/shop/' and (text() = 'Shop' or . = 'Shop')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='menu-item-40']/a</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#menu-item-40 > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://practice.automationtesting.in/shop/' and (text() = 'Shop' or . = 'Shop')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>362a4343-c623-4395-bebd-347b1fa4d79f</webElementGuid>
+      <webElementGuid>401e2696-4b20-4551-8fd9-999d4aa7ffbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://practice.automationtesting.in/shop/</value>
-      <webElementGuid>11b12085-c057-4674-a757-47a29fb050b9</webElementGuid>
+      <webElementGuid>11122cdb-654e-427d-9996-93f45af693c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Shop</value>
-      <webElementGuid>cbd0ad7c-5eb1-48ad-a85b-e3a91ae9a7c1</webElementGuid>
+      <webElementGuid>e1c935e0-8c51-4651-91f0-aebe71bceaac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-item-40&quot;)/a[1]</value>
-      <webElementGuid>f9edcb82-fa6a-4456-af69-6cd7c337b7e5</webElementGuid>
+      <webElementGuid>75b2a81e-c6ee-469a-bed3-ed1569de4a80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='menu-item-40']/a</value>
-      <webElementGuid>cb8fc2f7-fadc-420b-bbf0-36178119346e</webElementGuid>
+      <webElementGuid>006e6d33-51b6-4f05-a74d-20fd9c609b33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Shop')]</value>
-      <webElementGuid>67424c1b-4ae2-4941-be0c-c6796c052b20</webElementGuid>
+      <webElementGuid>d5d20fdd-85aa-4b00-9672-dba21e4dcee6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Practice Site'])[2]/following::a[1]</value>
-      <webElementGuid>c84c4733-7e91-4602-bdca-1ca12208b404</webElementGuid>
+      <webElementGuid>db4a4acc-7c7e-4cbe-bc32-988a1ee0ba6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/preceding::a[1]</value>
-      <webElementGuid>92623ecd-9a3c-4d66-a458-08aa0aa44c43</webElementGuid>
+      <webElementGuid>453c2f6e-7f2b-4f65-98c8-52fc9fae165d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Cases'])[1]/preceding::a[2]</value>
-      <webElementGuid>d925e648-423d-42b8-8472-c9cec368af85</webElementGuid>
+      <webElementGuid>706e40f2-8056-4e6e-b95d-9a6a5c749d49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Shop']/parent::*</value>
-      <webElementGuid>30472588-56bf-42ae-bd5c-f5f9332f5ded</webElementGuid>
+      <webElementGuid>5ab7cf23-7e52-423f-8901-af95bf64ae33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://practice.automationtesting.in/shop/')]</value>
-      <webElementGuid>919e236e-240e-4e2e-9c96-b509f8021709</webElementGuid>
+      <webElementGuid>2045b1e4-cea5-453a-9133-c9cd9a2dc1c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>47756383-aea7-4930-9f36-4229c48890d2</webElementGuid>
+      <webElementGuid>2a6a01f1-c872-467d-9d82-84410b385e5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,6 +122,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://practice.automationtesting.in/shop/' and (text() = 'Shop' or . = 'Shop')]</value>
-      <webElementGuid>28451fee-83c6-41fe-be87-065bc2d40995</webElementGuid>
+      <webElementGuid>b5a3f359-a08e-4afd-b796-2d32ffec8c5f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
